@@ -1,0 +1,26 @@
+.selector p {
+  background-color:red;
+  }
+  
+.dog > p{
+  background-color:blue;
+}  
+
+.dove + p{
+	background-color:yellow;
+}
+
+.cat ~ p{
+	background-color:red;
+}
+
+a.link{
+	color:red;
+}
+a.active{
+	  color:blue;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
